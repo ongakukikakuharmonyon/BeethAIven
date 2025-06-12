@@ -1,0 +1,7 @@
+# Core Libraries for Music Analysis and UI
+music21
+streamlit
+
+# Utility Libraries
+numpy
+pandas
